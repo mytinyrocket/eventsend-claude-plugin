@@ -1,0 +1,20 @@
+{
+  "name": "eventsend",
+  "displayName": "EventSend",
+  "version": "1.0.0",
+  "description": "Ask Claude what happened in your product: search events, follow one customer's timeline, find out why a Slack, Discord, Telegram or webhook notification didn't arrive, and summarize the week. Read-only.",
+  "author": {
+    "name": "EventSend",
+    "email": "support@eventsend.io",
+    "url": "https://eventsend.io"
+  },
+  "homepage": "https://eventsend.io/docs/mcp",
+  "repository": "https://github.com/mytinyrocket/eventsend-claude-plugin",
+  "license": "MIT",
+  "keywords": ["events", "notifications", "webhooks", "slack", "discord", "telegram", "monitoring", "analytics"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://eventsend.io/docs/mcp",
+  "supportUrl": "https://github.com/mytinyrocket/eventsend-claude-plugin/issues",
+  "privacyPolicyUrl": "https://eventsend.io/privacy",
+  "termsOfServiceUrl": "https://eventsend.io/terms"
+}

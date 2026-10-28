@@ -1,0 +1,26 @@
+{
+  "name": "eventsend",
+  "version": "1.0.0",
+  "description": "Ask what happened in your product: search EventSend events, follow one customer's timeline, and find out why a Slack, Discord, Telegram or webhook notification didn't arrive. Read-only.",
+  "author": {
+    "name": "EventSend",
+    "email": "support@eventsend.io",
+    "url": "https://eventsend.io"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json",
+  "interface": {
+    "displayName": "EventSend",
+    "shortDescription": "Ask about your product events",
+    "longDescription": "EventSend routes your product's events, like payments, signups, deploys and errors, to Slack, Discord, Telegram, webhooks and push notifications. Its read-only MCP server lets an AI assistant answer questions about those events in plain language: what happened, to whom, and whether the notifications got through.\n\nAsk things like \"Did anything fail in checkout today?\", \"Why didn't the payment alert reach #billing?\", \"What did customer cus_9Xk2 do before they cancelled?\" or \"Are we going to run out of events before the month ends?\". Nine tools read your organization's setup, events, per-customer timelines, delivery outcomes, daily analytics and quota.\n\nNothing it does can change your account: no tool creates, edits or deletes anything, and no tool returns tokens, signing secrets or destination settings. You connect by signing in with OAuth and choosing which organizations to share. Every plan works, including Free.",
+    "developerName": "My Tiny Rocket LLC",
+    "category": "Productivity",
+    "capabilities": ["Read"],
+    "websiteURL": "https://eventsend.io",
+    "supportURL": "https://github.com/mytinyrocket/eventsend-claude-plugin/issues",
+    "privacyPolicyURL": "https://eventsend.io/privacy",
+    "termsOfServiceURL": "https://eventsend.io/terms",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png"
+  }
+}

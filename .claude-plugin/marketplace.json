@@ -1,0 +1,16 @@
+{
+  "name": "eventsend",
+  "description": "The EventSend plugin for Claude: ask what happened in your product, from your EventSend events.",
+  "owner": {
+    "name": "EventSend",
+    "email": "support@eventsend.io",
+    "url": "https://eventsend.io"
+  },
+  "plugins": [
+    {
+      "name": "eventsend",
+      "source": "./",
+      "description": "Search events, follow one customer's timeline, investigate failed notifications and summarize the week, through EventSend's read-only MCP server."
+    }
+  ]
+}

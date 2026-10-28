@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "eventsend": {
+      "url": "https://eventsend.io/mcp"
+    }
+  }
+}

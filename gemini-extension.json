@@ -1,0 +1,10 @@
+{
+  "name": "eventsend",
+  "version": "1.0.0",
+  "description": "Ask what happened in your product: search EventSend events, follow one customer's timeline, and find out why a Slack, Discord, Telegram or webhook notification didn't arrive. Read-only.",
+  "mcpServers": {
+    "eventsend": {
+      "httpUrl": "https://eventsend.io/mcp"
+    }
+  }
+}
